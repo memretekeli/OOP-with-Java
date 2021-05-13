@@ -1,5 +1,5 @@
 # OOP-with-Java
-This repisitory contains my OOP projects with Java.
+This repository contains my OOP projects with Java.
 
 All comments in the source codes are in Turkish because they were my graduate school's projects.
 
