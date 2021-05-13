@@ -1,6 +1,3 @@
-
-// Mahmut Emre Tekeli - N20233102 - emre.tekeli@hacettepe.edu.tr
-
 public class homework1 {
 	
 	  /** num_digits methodu input olarak aldigi tamsayinin basamak sayisini sayar ve
