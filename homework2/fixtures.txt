@@ -1,0 +1,405 @@
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
+F	Galatasaray	Rizespor	2 : 2
+F	Fenerbahce	Yeni Malatyaspor	3 : 2
+F	Akhisarspor	Trabzonspor	1 : 3
+V	Besiktas	Canakkale	3 : 0
+F	Galatasaray	Trabzonspor	3 : 1
+B	Afyon Belediye	Banvit	90 : 96
+F	Besiktas	Akhisarspor	2 : 1
+F	Kayserispor	Ankaragucu	0 : 2
+B	Besiktas	Sakarya BB	77 : 65
