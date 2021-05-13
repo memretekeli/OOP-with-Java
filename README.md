@@ -5,7 +5,7 @@ All comments in the source codes are in Turkish because they were my graduate sc
 
 I am planning to refine my source codes with English comments as soon as possible.
 
-There are 4 projects in this repistory:
+There are 4 projects in this repository:
 
 1. First project is in default folder. There are five methods in the homework1.java. It was my first homework and instructor tested our algorithm skills with this project.
 
