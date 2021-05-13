@@ -15,7 +15,7 @@ There are 4 projects in this repository:
 
 4. The fourth one is my semester project. It is an exact copy of a "Who Wants To Be A Millioner" tv show. I used all principles of Object Oriented Programming except polymorphism in this project. The data I used is the real questions that are asked in the show's Turkey version. 
 
-If you need more information about my projects or ask something different please do not hesitate to contact with me via e-mail.
+If you need more information about my projects or ask something different, please do not hesitate to contact with me via e-mail.
 
 My e-mail adress: m.emretekeli@gmail.com
 
