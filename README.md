@@ -17,5 +17,5 @@ There are 4 projects in this repository:
 
 If you need more information about my projects or ask something different, please do not hesitate to contact with me via e-mail.
 
-My e-mail adress: m.emretekeli@gmail.com
+My e-mail address: m.emretekeli@gmail.com
 
